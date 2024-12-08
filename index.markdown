@@ -8,19 +8,19 @@ layout: home
 <!-- markdownlint-disable MD041 -->
 ## Welcome to SevereClear, LLC
 
-SevereClear, LLC is a premier software development agency specializing in building cloud-based line-of-business Progressive Web Applications (PWAs). Our expertise lies in creating scalable, reliable, and intuitive web applications that cater to both internal users (employees) and external users (customers).
+SevereClear, LLC is a software development agency specializing in cloud-based Progressive Web Applications (PWAs) for line-of-business applications. Our focus is on creating scalable, reliable, and user-friendly web applications that serve both internal employees and external customers.
 
 ### Our Services
 
-- **Cloud-Based Solutions**: We leverage the power of the cloud to deliver robust and scalable applications.
-- **Progressive Web Applications**: Our PWAs provide a seamless user experience across all devices.
+- **Cloud-Based Solutions**: Harnessing the power of the cloud to deliver robust and scalable applications.
+- **Progressive Web Applications**: Ensuring a seamless user experience across all devices.
 - **Custom Development**: Tailored solutions to meet your specific business needs.
 
 ### Why Choose Us?
 
-- **Expertise**: Our team has a proven track record of delivering high-quality software solutions.
-- **Reliability**: We build applications that are dependable and perform well under pressure.
-- **User-Centric Design**: Our applications are designed with the end-user in mind, ensuring an intuitive and engaging experience.
+**Expertise**: A proven track record of delivering high-quality software solutions.
+**Reliability**: Building applications that perform well under pressure.
+**User-Centric Design**: Creating intuitive and engaging experiences for end-users.
 
 ### Get in Touch
 
