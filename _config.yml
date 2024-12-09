@@ -26,7 +26,7 @@ baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://severeclear.dev' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fdlane
 github_username: fdlane
-
+google_analytics: G-KH68ZJN60D
 # Build settings
 theme: minima
 plugins:
@@ -50,4 +50,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-  google_analytics: G-KH68ZJN60D
