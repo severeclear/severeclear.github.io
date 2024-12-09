@@ -18,13 +18,10 @@ SevereClear, LLC is a software development agency specializing in cloud-based Pr
 
 ### Why Choose Us?
 
-**Expertise**: A proven track record of delivering high-quality software solutions.
-
-**Reliability**: Building applications that perform well under pressure.
-
-**User-Centric Design**: Creating intuitive and engaging experiences for end-users.
-
-**Security**: We prioritize secure coding practices, regular vulnerability assessments, and adherence to industry standards such as OWASP.
+- **Expertise**: A proven track record of delivering high-quality software solutions.
+- **Reliability**: Building applications that perform well under pressure.
+- **User-Centric Design**: Creating intuitive and engaging experiences for end-users.
+- **Security**: We prioritize secure coding practices, regular vulnerability assessments, and adherence to industry standards such as OWASP.
 
 ### Get in Touch
 
